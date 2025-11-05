@@ -13,6 +13,9 @@
   <p>The system integrates <strong>satellite imagery</strong>, <strong>drone-captured data</strong>, and <strong>ground-level visual inputs</strong> to provide real-time insights into crop health, soil conditions, and environmental factors. By leveraging deep learning models and traditional machine learning algorithms, AgroVision Precision delivers actionable recommendations that can increase crop yields by 15-30% while reducing water and chemical usage by 20-40%.</p>
 </div>
 
+<img width="581" height="488" alt="image" src="https://github.com/user-attachments/assets/a255f075-4c11-47c6-b45d-99a3e356449a" />
+
+
 <div class="architecture">
   <h2>🏗️ System Architecture & Workflow</h2>
   
@@ -179,6 +182,9 @@
     <li>Docker containerization for scalable cloud deployment</li>
   </ul>
 </div>
+
+<img width="513" height="408" alt="image" src="https://github.com/user-attachments/assets/aef1faac-0ad5-4290-b903-8cc5eb8305e6" />
+
 
 <div class="installation">
   <h2>⚙️ Installation & Setup</h2>
@@ -510,11 +516,43 @@ agrovision-env\Scripts\activate    # Windows</code></pre>
     <li><strong>PyTorch and FastAPI communities</strong> for excellent documentation and support</li>
     <li><strong>Agricultural extension services</strong> worldwide for validating and improving the recommendations system</li>
   </ul>
-  
-  <p><strong>Developer:</strong> Muhammad Wasif Anwar (mwasifanwar)</p>
   <p><strong>Contact:</strong> For collaborations, research partnerships, or commercial deployment inquiries</p>
   
   <p>This project is released under the MIT License - see LICENSE file for details.</p>
+</div>
+
+<br>
+
+<h2 align="center">✨ Author</h2>
+
+<p align="center">
+  <b>M Wasif Anwar</b><br>
+  <i>AI/ML Engineer | Effixly AI</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mwasifanwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:wasifsdk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://mwasif.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
+  <a href="https://github.com/mwasifanwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⭐ Don't forget to star this repository if you find it helpful!
+
 </div>
 
 </body>
